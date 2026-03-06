@@ -1,0 +1,289 @@
+{
+  "exercises": [
+    {
+      "id": "ielts_001",
+      "title": "日常对话 - 餐厅点餐 (Restaurant Ordering)",
+      "audioUrl": "https://www.bbc.co.uk/learningenglish/downloads/audio/6-minute-english/20240115_6min.mp3",
+      "audioSource": "BBC 6 Minute English",
+      "duration": "2:30",
+      "difficulty": "easy",
+      "category": "daily",
+      "ieltsSection": "Part 1",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Where does this conversation take place?",
+          "options": [
+            "A. At a hotel",
+            "B. At a restaurant",
+            "C. At a shop"
+          ],
+          "answer": "B",
+          "explanation": "对话中提到菜单、点菜等餐厅场景关键词"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What does the customer order?",
+          "options": [
+            "A. Steak and wine",
+            "B. Fish and vegetables",
+            "C. Pasta and salad"
+          ],
+          "answer": "A"
+        }
+      ],
+      "transcript": "Waiter: Good evening, welcome to our restaurant. Table for two?\nCustomer: Yes, please. Could we have a table by the window?\nWaiter: Certainly. Here's your menu. Can I get you something to drink while you decide?\nCustomer: I'll have a glass of red wine, please.\nWaiter: And for your main course?\nCustomer: I think I'll go with the steak, medium rare.",
+      "vocabulary": [
+        {"word": "menu", "meaning": "菜单"},
+        {"word": "course", "meaning": "一道菜"},
+        {"word": "medium rare", "meaning": "三分熟"}
+      ],
+      "tips": "注意听数字、时间、地点等关键信息，这些通常是答案所在"
+    },
+    {
+      "id": "ielts_002",
+      "title": "学术讲座 - 气候变化 (Climate Change Lecture)",
+      "audioUrl": "https://learningenglish.voanews.com/Content/Audio/2024/01/science-report-20240115-128k.mp3",
+      "audioSource": "VOA Learning English - Science Report",
+      "duration": "4:15",
+      "difficulty": "hard",
+      "category": "academic",
+      "ieltsSection": "Part 4",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What is the main topic of the lecture?",
+          "options": [
+            "A. Water pollution",
+            "B. Air quality",
+            "C. Climate change and its impacts"
+          ],
+          "answer": "C",
+          "explanation": "讲座主要讨论气候变化及其对环境和人类社会的影响"
+        },
+        {
+          "type": "fill_in_blank",
+          "question": "Complete the sentence: The average global temperature has risen by ___ degrees since the industrial revolution.",
+          "answer": "1.1",
+          "explanation": "讲座中提到的具体数据"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which of the following is NOT mentioned as an effect of climate change?",
+          "options": [
+            "A. Rising sea levels",
+            "B. More frequent natural disasters",
+            "C. Decreased agricultural production",
+            "D. Increased solar activity"
+          ],
+          "answer": "D"
+        }
+      ],
+      "transcript": "Good morning, today we will discuss climate change and its impacts on our planet. Since the industrial revolution, the average global temperature has risen by approximately 1.1 degrees Celsius. This may seem small, but it has significant consequences. Rising sea levels threaten coastal cities. More frequent natural disasters destroy homes and infrastructure. Agricultural patterns are shifting, affecting food security worldwide.",
+      "vocabulary": [
+        {"word": "industrial revolution", "meaning": "工业革命"},
+        {"word": "consequences", "meaning": "后果"},
+        {"word": "infrastructure", "meaning": "基础设施"},
+        {"word": "agricultural", "meaning": "农业的"}
+      ],
+      "tips": "学术讲座注意听信号词：first, second, finally, however, therefore 等，这些词后面往往是重点"
+    },
+    {
+      "id": "ielts_003",
+      "title": "校园生活 - 图书馆服务介绍 (Library Services)",
+      "audioUrl": "https://www.bbc.co.uk/learningenglish/downloads/audio/the-english-we-speak/20240110_tews.mp3",
+      "audioSource": "BBC The English We Speak",
+      "duration": "3:00",
+      "difficulty": "medium",
+      "category": "campus",
+      "ieltsSection": "Part 2",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "When does the library close on weekdays?",
+          "options": [
+            "A. 5 PM",
+            "B. 7 PM",
+            "C. 9 PM"
+          ],
+          "answer": "C",
+          "explanation": "图书馆工作日晚上 9 点关门"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How many books can a student borrow at one time?",
+          "options": [
+            "A. 5 books",
+            "B. 10 books",
+            "C. 15 books"
+          ],
+          "answer": "B"
+        },
+        {
+          "type": "true_false",
+          "question": "The library offers free printing services for students.",
+          "answer": "false",
+          "explanation": "打印服务需要付费"
+        }
+      ],
+      "transcript": "Welcome to the university library. Let me tell you about our services. We are open from 8 AM to 9 PM on weekdays, and 10 AM to 6 PM on weekends. Students can borrow up to 10 books at one time for a period of three weeks. We have computer rooms, group study areas, and individual study carrels. Printing services are available at 10 cents per page for black and white, 50 cents for color.",
+      "vocabulary": [
+        {"word": "borrow", "meaning": "借阅"},
+        {"word": "carrels", "meaning": "独立学习间"},
+        {"word": "available", "meaning": "可用的"}
+      ],
+      "tips": "校园场景常考开放时间、借阅规则、设施位置等实用信息，注意听数字"
+    },
+    {
+      "id": "ielts_004",
+      "title": "电话对话 - 酒店预订 (Hotel Reservation Call)",
+      "audioUrl": "https://www.britishcouncil.org/sites/default/files/ielts-listening-sample-audio.mp3",
+      "audioSource": "British Council IELTS Sample",
+      "duration": "3:45",
+      "difficulty": "medium",
+      "category": "daily",
+      "ieltsSection": "Part 1",
+      "questions": [
+        {
+          "type": "fill_in_blank",
+          "question": "Complete the reservation form: Check-in date: ___ March 2024",
+          "answer": "15th",
+          "explanation": "对话中确认的入住日期"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What type of room does the caller want?",
+          "options": [
+            "A. Single room with city view",
+            "B. Double room with sea view",
+            "C. Suite with balcony"
+          ],
+          "answer": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How many nights will the guest stay?",
+          "options": [
+            "A. 2 nights",
+            "B. 3 nights",
+            "C. 4 nights"
+          ],
+          "answer": "B"
+        }
+      ],
+      "transcript": "Receptionist: Good morning, Seaside Hotel. How can I help you?\nCaller: Hello, I'd like to make a reservation please.\nReceptionist: Certainly. What dates would you like to book?\nCaller: From March 15th for three nights.\nReceptionist: And what type of room?\nCaller: A double room with sea view, please.\nReceptionist: Let me check... Yes, we have availability. That would be £120 per night including breakfast.",
+      "vocabulary": [
+        {"word": "reservation", "meaning": "预订"},
+        {"word": "availability", "meaning": "空房"},
+        {"word": "double room", "meaning": "双人房"},
+        {"word": "sea view", "meaning": "海景"}
+      ],
+      "tips": "电话对话要注意拼写，特别是人名、地名、邮箱等，可能会要求拼写出来"
+    },
+    {
+      "id": "ielts_005",
+      "title": "小组讨论 - 环境保护方案 (Environmental Protection Discussion)",
+      "audioUrl": "https://learningenglish.voanews.com/Content/Audio/2024/01/environment-report-20240112-128k.mp3",
+      "audioSource": "VOA Learning English - Environment Report",
+      "duration": "5:00",
+      "difficulty": "hard",
+      "category": "academic",
+      "ieltsSection": "Part 3",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "How many students are in the discussion group?",
+          "options": [
+            "A. 2 students",
+            "B. 3 students",
+            "C. 4 students"
+          ],
+          "answer": "B"
+        },
+        {
+          "type": "matching",
+          "question": "Match each student with their proposed solution:",
+          "pairs": [
+            {"person": "Sarah", "solution": "Recycling program"},
+            {"person": "Mike", "solution": "Solar panels"},
+            {"person": "Emma", "solution": "Public transport campaign"}
+          ],
+          "explanation": "需要听出每个人提出的具体建议"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What does the group decide to do first?",
+          "options": [
+            "A. Create a survey",
+            "B. Contact the university administration",
+            "C. Organize a cleanup event"
+          ],
+          "answer": "A"
+        }
+      ],
+      "transcript": "Sarah: So we need to come up with some ideas for improving environmental awareness on campus.\nMike: I think we should focus on renewable energy. Maybe propose solar panels for the library?\nSarah: That's a good idea, Mike. I was thinking about starting a recycling program in the dormitories.\nEmma: What about encouraging public transport use? We could run a campaign about reducing carbon footprint.\nSarah: Great suggestions! Let's create a survey first to see what students think about these ideas.\nMike: Agreed. We can present the results to the university administration next.",
+      "vocabulary": [
+        {"word": "renewable energy", "meaning": "可再生能源"},
+        {"word": "recycling program", "meaning": "回收计划"},
+        {"word": "carbon footprint", "meaning": "碳足迹"},
+        {"word": "administration", "meaning": "管理部门"}
+      ],
+      "tips": "多人讨论要分清说话者，注意每个人的观点和态度，常考观点匹配题"
+    }
+  ],
+  "recommendedResources": [
+    {
+      "name": "BBC Learning English",
+      "url": "https://www.bbc.co.uk/learningenglish",
+      "description": "英式英语，提供 6 Minute English、The English We Speak 等经典栏目",
+      "features": ["免费音频下载", "附带文本", "适合各水平"],
+      "bestFor": "日常英语、英式发音、词汇积累"
+    },
+    {
+      "name": "VOA Learning English",
+      "url": "https://learningenglish.voanews.com",
+      "description": "美式英语，语速较慢，用词简单，适合初学者",
+      "features": ["慢速英语", "分级内容", "新闻主题丰富"],
+      "bestFor": "美式发音、新闻英语、初级到中级学习者"
+    },
+    {
+      "name": "British Council IELTS",
+      "url": "https://www.britishcouncil.org/ielts/preparation",
+      "description": "雅思官方备考资源，包含真实考题和样题",
+      "features": ["官方样题", "完整模拟测试", "备考技巧"],
+      "bestFor": "雅思真题练习、考试格式熟悉"
+    },
+    {
+      "name": "IELTS.org Sample Questions",
+      "url": "https://www.ielts.org/for-test-takers/sample-test-questions",
+      "description": "雅思官方网站提供的免费样题",
+      "features": ["官方题目", "四部分完整样题", "评分标准"],
+      "bestFor": "了解考试形式、自我测评"
+    },
+    {
+      "name": "TED Talks",
+      "url": "https://www.ted.com",
+      "description": "高质量演讲，附带多语言字幕和文本",
+      "features": ["主题广泛", "多口音", "可调节语速"],
+      "bestFor": "学术听力、高级学习者、拓展知识面"
+    },
+    {
+      "name": "ESL Pod",
+      "url": "https://www.eslpod.com",
+      "description": "专为英语学习者设计的播客，讲解详细",
+      "features": ["慢速讲解", "词汇解释", "文化背景"],
+      "bestFor": "日常对话、文化学习、中级学习者"
+    }
+  ],
+  "studyTips": [
+    "每天坚持听 30 分钟，比一周听一次 3 小时更有效",
+    "第一遍盲听做题，第二遍看文本听，第三遍跟读模仿",
+    "建立生词本，记录听力中遇到的生词和短语",
+    "注意连读、弱读、失去爆破等语音现象",
+    "模拟考试环境，限时完成听力练习"
+  ],
+  "lastUpdate": "2026-03-06",
+  "updatedBy": "晴雯 - 听力训练专家",
+  "totalExercises": 5,
+  "version": "2.0"
+}

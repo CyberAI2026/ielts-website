@@ -1,0 +1,326 @@
+{
+  "words": [
+    {
+      "word": "abstract",
+      "phonetic": "/ˈæbstrækt/",
+      "meaning": "adj. 抽象的",
+      "example": "This is an abstract concept.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "ability",
+      "phonetic": "/əˈbɪləti/",
+      "meaning": "n. 能力，才能",
+      "example": "She has the ability to learn quickly.",
+      "difficulty": "easy",
+      "category": "academic"
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɑːmədeɪt/",
+      "meaning": "v. 容纳，适应",
+      "example": "The hotel can accommodate 500 guests.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "meaning": "v. 放弃，抛弃",
+      "example": "He decided to abandon the project.",
+      "difficulty": "easy",
+      "category": "academic"
+    },
+    {
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "adj. 准确的",
+      "example": "The measurements were accurate.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "abnormal",
+      "phonetic": "/æbˈnɔːrml/",
+      "meaning": "adj. 异常的",
+      "example": "The test results were abnormal.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "meaning": "adj. 学术的",
+      "example": "She has excellent academic records.",
+      "difficulty": "easy",
+      "category": "academic"
+    },
+    {
+      "word": "aboard",
+      "phonetic": "/əˈbɔːrd/",
+      "meaning": "adv. 在船 (车) 上",
+      "example": "Welcome aboard the flight.",
+      "difficulty": "easy",
+      "category": "daily"
+    },
+    {
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "meaning": "v. 加速",
+      "example": "The car accelerated quickly.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "absorb",
+      "phonetic": "/əbˈzɔːrb/",
+      "meaning": "v. 吸收",
+      "example": "Plants absorb sunlight.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "advocate",
+      "phonetic": "/ˈædvəkeɪt/",
+      "meaning": "v. 提倡，主张 n. 拥护者",
+      "example": "They advocate for environmental protection.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "aesthetic",
+      "phonetic": "/esˈθetɪk/",
+      "meaning": "adj. 美学的，审美的",
+      "example": "The building has aesthetic appeal.",
+      "difficulty": "hard",
+      "category": "arts"
+    },
+    {
+      "word": "aggregate",
+      "phonetic": "/ˈæɡrɪɡət/",
+      "meaning": "n. 总数 adj. 合计的",
+      "example": "The aggregate score was impressive.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "allocate",
+      "phonetic": "/ˈæləkeɪt/",
+      "meaning": "v. 分配，分派",
+      "example": "Resources were allocated efficiently.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːrnətɪv/",
+      "meaning": "n. 替代品 adj. 供选择的",
+      "example": "We need to find an alternative solution.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "meaning": "adj. 模棱两可的",
+      "example": "The instructions were ambiguous.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "amend",
+      "phonetic": "/əˈmend/",
+      "meaning": "v. 修改，修订",
+      "example": "The law was amended last year.",
+      "difficulty": "hard",
+      "category": "legal"
+    },
+    {
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "meaning": "v. 预期，期望",
+      "example": "We anticipate growth next quarter.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "word": "apparent",
+      "phonetic": "/əˈpærənt/",
+      "meaning": "adj. 明显的，表面上的",
+      "example": "It was apparent that he was tired.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meaning": "v. 欣赏，感激，增值",
+      "example": "I appreciate your help.",
+      "difficulty": "easy",
+      "category": "daily"
+    },
+    {
+      "word": "arbitrary",
+      "phonetic": "/ˈɑːrbətreri/",
+      "meaning": "adj. 任意的，武断的",
+      "example": "The decision seemed arbitrary.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "architect",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "meaning": "n. 建筑师，设计师",
+      "example": "The architect designed the museum.",
+      "difficulty": "medium",
+      "category": "arts"
+    },
+    {
+      "word": "articulate",
+      "phonetic": "/ɑːrˈtɪkjuleɪt/",
+      "meaning": "adj. 表达清晰的 v. 清楚说明",
+      "example": "She articulated her ideas well.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "artificial",
+      "phonetic": "/ˌɑːrtɪˈfɪʃl/",
+      "meaning": "adj. 人造的，虚假的",
+      "example": "Artificial intelligence is advancing.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "word": "assemble",
+      "phonetic": "/əˈsembəl/",
+      "meaning": "v. 集合，组装",
+      "example": "The team assembled in the conference room.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "word": "assess",
+      "phonetic": "/əˈses/",
+      "meaning": "v. 评估，评定",
+      "example": "We need to assess the situation.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "asset",
+      "phonetic": "/ˈæset/",
+      "meaning": "n. 资产，财产，有价值的人",
+      "example": "His experience is a valuable asset.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "word": "assign",
+      "phonetic": "/əˈsaɪn/",
+      "meaning": "v. 分配，指派",
+      "example": "The teacher assigned homework.",
+      "difficulty": "easy",
+      "category": "academic"
+    },
+    {
+      "word": "assume",
+      "phonetic": "/əˈsuːm/",
+      "meaning": "v. 假设，承担",
+      "example": "Don't assume the answer is correct.",
+      "difficulty": "medium",
+      "category": "academic"
+    },
+    {
+      "word": "assure",
+      "phonetic": "/əˈʃʊr/",
+      "meaning": "v. 向...保证，使确信",
+      "example": "I can assure you it's safe.",
+      "difficulty": "medium",
+      "category": "daily"
+    },
+    {
+      "word": "attachment",
+      "phonetic": "/əˈtætʃmənt/",
+      "meaning": "n. 附件，依恋",
+      "example": "Please check the email attachment.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "word": "attain",
+      "phonetic": "/əˈteɪn/",
+      "meaning": "v. 获得，达到",
+      "example": "She attained her goals.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "meaning": "v./n. 尝试，企图",
+      "example": "He attempted to solve the problem.",
+      "difficulty": "easy",
+      "category": "daily"
+    },
+    {
+      "word": "attitude",
+      "phonetic": "/ˈætɪtuːd/",
+      "meaning": "n. 态度，看法",
+      "example": "Her attitude was positive.",
+      "difficulty": "easy",
+      "category": "daily"
+    },
+    {
+      "word": "attribute",
+      "phonetic": "/əˈtrɪbjuːt/",
+      "meaning": "v. 归因于 n. 属性",
+      "example": "Success is attributed to hard work.",
+      "difficulty": "hard",
+      "category": "academic"
+    },
+    {
+      "word": "audience",
+      "phonetic": "/ˈɔːdiəns/",
+      "meaning": "n. 观众，听众",
+      "example": "The audience applauded loudly.",
+      "difficulty": "easy",
+      "category": "arts"
+    },
+    {
+      "word": "authority",
+      "phonetic": "/ɔːˈθɔːrəti/",
+      "meaning": "n. 权威，权力，当局",
+      "example": "The authorities investigated the case.",
+      "difficulty": "medium",
+      "category": "legal"
+    },
+    {
+      "word": "automatic",
+      "phonetic": "/ˌɔːtəˈmætɪk/",
+      "meaning": "adj. 自动的，无意识的",
+      "example": "The doors are automatic.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "meaning": "adj. 可获得的，有空的",
+      "example": "Are you available tomorrow?",
+      "difficulty": "easy",
+      "category": "daily"
+    },
+    {
+      "word": "aware",
+      "phonetic": "/əˈwer/",
+      "meaning": "adj. 意识到的，知道的",
+      "example": "I'm aware of the risks.",
+      "difficulty": "medium",
+      "category": "daily"
+    }
+  ],
+  "lastUpdate": "2026-03-06",
+  "totalWords": 40
+}

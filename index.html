@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>雅思学习平台 - IELTS Study Platform</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 侧边导航 -->
+        <nav class="sidebar">
+            <div class="logo">
+                <h1>🦞 雅思学习</h1>
+                <p>IELTS Master</p>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item active" data-section="dashboard">
+                    <span class="icon">📊</span>
+                    <span>学习概览</span>
+                </li>
+                <li class="nav-item" data-section="vocabulary">
+                    <span class="icon">📚</span>
+                    <span>每日单词</span>
+                </li>
+                <li class="nav-item" data-section="listening">
+                    <span class="icon">🎧</span>
+                    <span>听力训练</span>
+                </li>
+                <li class="nav-item" data-section="practice">
+                    <span class="icon">✍️</span>
+                    <span>练习题</span>
+                </li>
+                <li class="nav-item" data-section="statistics">
+                    <span class="icon">📈</span>
+                    <span>学习统计</span>
+                </li>
+            </ul>
+            <div class="user-info">
+                <div class="avatar">👤</div>
+                <div class="username">学习者</div>
+            </div>
+        </nav>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 学习概览 -->
+            <section id="dashboard" class="content-section active">
+                <header class="section-header">
+                    <h2>学习概览</h2>
+                    <p class="date" id="currentDate"></p>
+                </header>
+                
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">🔥</div>
+                        <div class="stat-value" id="streakDays">0</div>
+                        <div class="stat-label">连续学习天数</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">📚</div>
+                        <div class="stat-value" id="wordsLearned">0</div>
+                        <div class="stat-label">已学单词</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🎧</div>
+                        <div class="stat-value" id="listeningMinutes">0</div>
+                        <div class="stat-label">听力分钟</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">✅</div>
+                        <div class="stat-value" id="exercisesCompleted">0</div>
+                        <div class="stat-label">完成练习</div>
+                    </div>
+                </div>
+
+                <div class="today-tasks">
+                    <h3>今日任务</h3>
+                    <div class="task-list">
+                        <div class="task-item">
+                            <input type="checkbox" id="task-vocab">
+                            <label for="task-vocab">学习 10 个新单词</label>
+                            <span class="task-progress">0/10</span>
+                        </div>
+                        <div class="task-item">
+                            <input type="checkbox" id="task-listening">
+                            <label for="task-listening">完成 1 个听力练习</label>
+                            <span class="task-progress">0/1</span>
+                        </div>
+                        <div class="task-item">
+                            <input type="checkbox" id="task-practice">
+                            <label for="task-practice">完成 1 套练习题</label>
+                            <span class="task-progress">0/1</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 每日单词 -->
+            <section id="vocabulary" class="content-section">
+                <header class="section-header">
+                    <h2>每日单词</h2>
+                    <button class="btn-primary" id="startVocabBtn">开始学习</button>
+                </header>
+                
+                <div class="vocab-container" id="vocabContainer">
+                    <div class="vocab-card" id="vocabCard">
+                        <div class="word-header">
+                            <h3 class="word" id="wordText">abandon</h3>
+                            <span class="phonetic" id="wordPhonetic">/əˈbændən/</span>
+                        </div>
+                        <div class="word-meaning" id="wordMeaning">v. 放弃，抛弃</div>
+                        <div class="word-example" id="wordExample">He decided to abandon the project.</div>
+                        <div class="word-actions">
+                            <button class="btn btn-secondary" id="prevWordBtn">上一个</button>
+                            <button class="btn btn-audio" id="playAudioBtn">🔊 发音</button>
+                            <button class="btn btn-success" id="knowWordBtn">认识</button>
+                            <button class="btn btn-warning" id="unknownWordBtn">不认识</button>
+                            <button class="btn btn-secondary" id="nextWordBtn">下一个</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 听力训练 -->
+            <section id="listening" class="content-section">
+                <header class="section-header">
+                    <h2>听力训练</h2>
+                </header>
+                
+                <div class="exercise-list" id="listeningList">
+                    <!-- 动态加载听力练习 -->
+                </div>
+
+                <div class="exercise-player" id="listeningPlayer" style="display:none;">
+                    <div class="player-header">
+                        <button class="btn btn-back" id="backToListBtn">← 返回</button>
+                        <h3 id="playerTitle"></h3>
+                    </div>
+                    <div class="audio-player">
+                        <audio id="audioPlayer" controls>
+                            <source src="" type="audio/mpeg">
+                            您的浏览器不支持音频播放
+                        </audio>
+                    </div>
+                    <div class="transcript" id="transcript"></div>
+                    <div class="questions" id="questions"></div>
+                </div>
+            </section>
+
+            <!-- 练习题 -->
+            <section id="practice" class="content-section">
+                <header class="section-header">
+                    <h2>练习题</h2>
+                </header>
+                
+                <div class="exercise-list" id="practiceList">
+                    <!-- 动态加载练习题 -->
+                </div>
+            </section>
+
+            <!-- 学习统计 -->
+            <section id="statistics" class="content-section">
+                <header class="section-header">
+                    <h2>学习统计</h2>
+                </header>
+                
+                <div class="charts-container">
+                    <div class="chart-card">
+                        <h3>每周学习活跃度</h3>
+                        <div class="chart" id="weeklyChart"></div>
+                    </div>
+                    <div class="chart-card">
+                        <h3>各模块得分</h3>
+                        <div class="chart" id="scoreChart"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="js/app-fixed.js"></script>
+</body>
+</html>

@@ -1,0 +1,223 @@
+{
+  "exercises": [
+    {
+      "type": "reading",
+      "title": "阅读理解 - 科技发展",
+      "difficulty": "medium",
+      "category": "academic",
+      "passage": "Technology has revolutionized the way we communicate and work...",
+      "questions": [
+        {
+          "id": "1a",
+          "type": "multiple_choice",
+          "question": "What is the main idea?",
+          "options": [
+            "A. Technology is dangerous",
+            "B. Technology has transformed communication",
+            "C. AI will replace humans"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "title": "写作任务 - 教育话题",
+      "difficulty": "hard",
+      "category": "academic",
+      "task": "Some people believe that university education should be free. To what extent do you agree?",
+      "requirements": {
+        "wordCount": 250,
+        "timeLimit": 40
+      }
+    },
+    {
+      "type": "speaking",
+      "title": "口语练习 - 个人经历",
+      "difficulty": "easy",
+      "category": "daily",
+      "questions": [
+        {
+          "part": 1,
+          "question": "Tell me about your hometown.",
+          "followUp": [
+            "What do you like about it?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "阅读理解 - 环境保护",
+      "difficulty": "hard",
+      "category": "academic",
+      "passage": "Climate change poses one of the greatest challenges of our time. Rising global temperatures have led to more frequent extreme weather events, including hurricanes, droughts, and floods. Scientists warn that without immediate action to reduce greenhouse gas emissions, the consequences could be irreversible. Many countries have committed to the Paris Agreement, aiming to limit global warming to well below 2 degrees Celsius. However, critics argue that current pledges are insufficient. Individual actions, such as reducing energy consumption and choosing sustainable transportation, also play a crucial role. The transition to renewable energy sources like solar and wind power is accelerating, but fossil fuels still dominate the global energy mix. Economic considerations often conflict with environmental priorities, creating tension between developed and developing nations. Education and awareness campaigns are essential to drive behavioral change at all levels of society.",
+      "questions": [
+        {
+          "id": "2a",
+          "type": "multiple_choice",
+          "question": "According to the passage, what is the target of the Paris Agreement?",
+          "options": [
+            "A. Eliminate all fossil fuels by 2030",
+            "B. Limit global warming to well below 2 degrees Celsius",
+            "C. Stop all extreme weather events"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2b",
+          "type": "multiple_choice",
+          "question": "What challenge is mentioned regarding the transition to renewable energy?",
+          "options": [
+            "A. Renewable energy is too expensive",
+            "B. Fossil fuels still dominate the global energy mix",
+            "C. Solar power is not efficient"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2c",
+          "type": "true_false",
+          "question": "The passage states that current pledges are sufficient to address climate change.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "title": "阅读理解 - 文化多样性",
+      "difficulty": "medium",
+      "category": "social",
+      "passage": "In an increasingly globalized world, cultural diversity faces both opportunities and threats. On one hand, globalization facilitates the exchange of ideas, art, and traditions across borders. People can experience cuisines, music, and festivals from distant cultures without leaving their hometowns. On the other hand, some argue that dominant cultures, particularly Western influence, are overshadowing local traditions. Languages are disappearing at an alarming rate, with linguists estimating that half of the world's languages may become extinct by the end of this century. Preserving cultural heritage requires conscious effort from governments, communities, and individuals. Museums, cultural centers, and digital archives play important roles in documenting and celebrating diversity. Education systems can incorporate multicultural curricula to foster understanding and respect. Ultimately, cultural diversity enriches human experience and promotes innovation through the cross-pollination of ideas.",
+      "questions": [
+        {
+          "id": "3a",
+          "type": "multiple_choice",
+          "question": "What is one benefit of globalization mentioned in the passage?",
+          "options": [
+            "A. It eliminates all cultural differences",
+            "B. It facilitates the exchange of ideas and traditions",
+            "C. It makes languages disappear faster"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3b",
+          "type": "multiple_choice",
+          "question": "According to linguists, what may happen by the end of this century?",
+          "options": [
+            "A. All languages will be English",
+            "B. Half of the world's languages may become extinct",
+            "C. New languages will be created"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3c",
+          "type": "short_answer",
+          "question": "Name two ways mentioned in the passage to preserve cultural heritage.",
+          "answer": "Museums, cultural centers, digital archives, multicultural curricula (any two)"
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "title": "写作任务 - 科技与生活",
+      "difficulty": "medium",
+      "category": "daily",
+      "task": "Nowadays, many people use social media to stay connected with friends and family. Do the advantages of social media outweigh the disadvantages? Give your opinion with relevant examples.",
+      "requirements": {
+        "wordCount": 250,
+        "timeLimit": 40
+      }
+    },
+    {
+      "type": "writing",
+      "title": "写作任务 - 工作环境",
+      "difficulty": "hard",
+      "category": "academic",
+      "task": "Some companies allow employees to work from home, while others require them to work in the office. Discuss both views and give your own opinion on remote work versus office work.",
+      "requirements": {
+        "wordCount": 250,
+        "timeLimit": 40
+      }
+    },
+    {
+      "type": "speaking",
+      "title": "口语练习 - 兴趣爱好",
+      "difficulty": "easy",
+      "category": "daily",
+      "questions": [
+        {
+          "part": 1,
+          "question": "What do you like to do in your free time?",
+          "followUp": [
+            "How long have you been doing this?",
+            "Why do you enjoy it?"
+          ]
+        },
+        {
+          "part": 2,
+          "question": "Describe a hobby you recently started. You should say: what it is, how you learned about it, why you decided to try it, and explain how you feel about it so far.",
+          "followUp": []
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "title": "口语练习 - 旅行经历",
+      "difficulty": "medium",
+      "category": "daily",
+      "questions": [
+        {
+          "part": 1,
+          "question": "Do you enjoy traveling? Why or why not?",
+          "followUp": [
+            "Where did you go for your last trip?"
+          ]
+        },
+        {
+          "part": 2,
+          "question": "Describe a memorable trip you have taken. You should say: where you went, who you went with, what you did there, and explain why this trip was memorable.",
+          "followUp": []
+        },
+        {
+          "part": 3,
+          "question": "How has tourism changed in your country over the past decades?",
+          "followUp": [
+            "What are the benefits and drawbacks of tourism?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "title": "口语练习 - 未来规划",
+      "difficulty": "hard",
+      "category": "academic",
+      "questions": [
+        {
+          "part": 1,
+          "question": "What are your goals for the next five years?",
+          "followUp": [
+            "How do you plan to achieve them?"
+          ]
+        },
+        {
+          "part": 2,
+          "question": "Describe a career or profession that interests you. You should say: what the job involves, why it interests you, what skills are needed for it, and explain how you might prepare for this career.",
+          "followUp": []
+        },
+        {
+          "part": 3,
+          "question": "How important is it for young people to have clear career plans?",
+          "followUp": [
+            "Should education systems focus more on career preparation?"
+          ]
+        }
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-06",
+  "totalExercises": 10
+}

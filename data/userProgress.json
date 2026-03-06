@@ -1,0 +1,46 @@
+{
+  "users": {
+    "default": {
+      "userId": "default",
+      "name": "学习者",
+      "createdAt": "2026-03-06",
+      "totalStudyDays": 0,
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastStudyDate": null,
+      "vocabulary": {
+        "learnedWords": [],
+        "masteredWords": [],
+        "reviewQueue": [],
+        "dailyGoal": 10,
+        "todayLearned": 0
+      },
+      "listening": {
+        "completedExercises": [],
+        "totalMinutes": 0,
+        "averageScore": 0,
+        "weakAreas": []
+      },
+      "practice": {
+        "completedExercises": [],
+        "scores": {
+          "reading": [],
+          "writing": [],
+          "speaking": []
+        },
+        "averageScore": 0
+      },
+      "statistics": {
+        "totalWordsLearned": 0,
+        "totalListeningMinutes": 0,
+        "totalExercisesCompleted": 0,
+        "weeklyActivity": []
+      }
+    }
+  },
+  "system": {
+    "lastDailyUpdate": "2026-03-06",
+    "nextUpdateScheduled": "2026-03-07 00:00:00",
+    "version": "1.0.0"
+  }
+}
